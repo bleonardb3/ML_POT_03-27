@@ -24,10 +24,10 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/ThinkGov/blob/master/Images/Select%20New%20Project.png"/>
 
 ### Step 3. Hover the mouse over `Standard` 
-> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/images/HoverMouseOverStandard.png"/>
+> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-1/images/HoverMouseOverStandard.png"/>
 
 ### Step 4. Click on `Create project`. 
-> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/images/CreateStandardProject.png"/>
+> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-1/images/CreateStandardProject.png"/>
 
 
 ### Step 4. Enter the project name (eg. Watson Studio Labs), optionally a description, de-select the `Restrict who can be a collaborator  checkbox` and then click on `Add` in the Storage section. Note if you have already provisioned cloud object storage (you shouldn't see an Add button) , then just click on the `Create` button, and skip to Step 9. 
