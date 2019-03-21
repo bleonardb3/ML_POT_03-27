@@ -46,7 +46,12 @@ Upon completing the lab, you will know how to:
 1. In the Notebook URL field, use `https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/Heart%20Disease.ipynb`.
 1. ###  WARNING MAKE SURE TO CHANGE THE ENVIRONMENT TO THE ONE WITH DEFAULT SPARK `Default Spark Python 3.5 XS environment`
 
-### Step 5.  Follow the instructions in the notebook.
+### Step 5.  Please make sure the notebook has `Spark with Python 3.5 in top right corner. 
+
+> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/SparkWithPython.png"/>
+
+### Step 6. Follow the instructions in the notebook. 
+
 
 
 
