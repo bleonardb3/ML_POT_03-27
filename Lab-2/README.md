@@ -39,7 +39,6 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/CreateNotebook.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
@@ -48,7 +47,7 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/CreateNotebook.png"/>
 
-### Step 5.  Please make sure the notebook has `Spark with Python 3.5 in top right corner. 
+### Step 5.  Please make sure the notebook has `Python 3.5 with Spark` in top right corner. 
 
 > <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/PythonWithSpark.png"/>
 
