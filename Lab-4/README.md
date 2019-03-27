@@ -15,7 +15,6 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Please click on the link below to download the instructions to your machine.
+### Step 1.  The instructor will demonstrate this capability. 
 
-[Instructions](https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-4/Watson%20OpenScale%20Lab%20(Spark%20Notebook)%201.3.pdf)
 
