@@ -17,5 +17,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_03-27/raw/master/Lab-4/Continuous%20Learning%20Labv4.0.pdf)
+[Instructions](https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-4/Watson%20OpenScale%20Lab%20(Spark%20Notebook)%201.3.pdf)
 
