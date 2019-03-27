@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-This lab will introduce attendees to Watson OpenScale, an open platform designed to help organizations automate and operate AI at scale with trust and transparency.  
+This lab will introduce attendees to IBM® Watson OpenScale. IBM® Watson OpenScale allows enterprises to automate and operationalize the AI lifecycle in business applications, ensuring AI models are free from bias, can be easily explained and understood by business users, and are auditable in business transactions.  
 
 ## Objectives:
 
